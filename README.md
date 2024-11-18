@@ -10,19 +10,19 @@ O projeto inclui uma interface de dashboard interativa que permite visualizar es
 
 ### Leituras por Hora do Dia
 
-![Leituras por Hora](https://imgur.com/grEd0dX)
+![Leituras por Hora](https://i.imgur.com/grEd0dX.png)
 
 Esta visualização exibe a variação das temperaturas ao longo do dia, agrupadas por hora. Ela permite identificar padrões de temperatura em intervalos de tempo específicos.
 
 ### Média de Temperatura por Dispositivo
 
-![Média de Temperatura](https://imgur.com/ucjVJdl)
+![Média de Temperatura](https://i.imgur.com/ucjVJdl.png)
 
 Esta visualização mostra a média de temperatura por dispositivo, permitindo uma análise comparativa entre diferentes dispositivos ou ambientes.
 
 ### Temperatura Máxima e Mínima por Dia
 
-![Temperatura Máxima e Mínima](https://imgur.com/AZBbqVR)
+![Temperatura Máxima e Mínima](https://i.imgur.com/AZBbqVR.png)
 
 Esta visualização exibe a temperatura máxima e mínima registrada por dia, fornecendo uma visão geral da variação de temperatura ao longo do tempo.
 
